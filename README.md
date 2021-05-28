@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PrivateButts
+- 👀 I’m interested in tinkering with computers, currently game and web dev with a little arduino on the side.
+- 🌱 I’m currently learning everything and anything
+- 💞️ I’m looking to collaborate on GMTK 2021
+- 📫 @private_butts, inquiries@privatebutts.dev
