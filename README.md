@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PrivateButts
 - 👀 I’m interested in tinkering with computers, currently game and web dev with a little arduino on the side.
 - 🌱 I’m currently learning everything and anything
-- 📫 [@PrivateButts@mstdn.social](https://mstdn.social/@PrivateButts), @privatebutts.dev on bsky, inquiries@privatebutts.dev
+- 📫 [@PrivateButts@mstdn.social](https://mstdn.social/@PrivateButts), [@privatebutts.dev on bsky](https://bsky.app/profile/privatebutts.dev), inquiries@privatebutts.dev
